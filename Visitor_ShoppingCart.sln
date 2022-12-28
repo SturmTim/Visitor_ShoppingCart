@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor_ShoppingCart", "Visitor_ShoppingCart\Visitor_ShoppingCart.csproj", "{7AF568C3-1986-4176-BC19-A92595489126}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorLib", "VisitorLib\VisitorLib.csproj", "{7AF568C3-1986-4176-BC19-A92595489126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor_ShoppingCart", "Visitor_ShoppingCart\Visitor_ShoppingCart.csproj", "{9281D2AF-044A-415A-BD02-8A1FF54DF109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{7AF568C3-1986-4176-BC19-A92595489126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AF568C3-1986-4176-BC19-A92595489126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AF568C3-1986-4176-BC19-A92595489126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9281D2AF-044A-415A-BD02-8A1FF54DF109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9281D2AF-044A-415A-BD02-8A1FF54DF109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9281D2AF-044A-415A-BD02-8A1FF54DF109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9281D2AF-044A-415A-BD02-8A1FF54DF109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

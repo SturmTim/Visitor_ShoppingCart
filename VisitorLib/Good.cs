@@ -1,4 +1,4 @@
-﻿namespace ElementLib;
+﻿namespace Visitor_ShoppingCart;
 
 public abstract class Good
 {
@@ -10,7 +10,5 @@ public abstract class Good
   public override string ToString() => $"{Name}: {NrUnits} x {PricePerUnit:#.00} € (je {Weight}g)";
 
   public abstract void Accept(IVisitor visitor);
-
-  public abstract string GetHtml();
 
 }

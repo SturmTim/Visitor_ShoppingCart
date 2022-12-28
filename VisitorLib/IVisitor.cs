@@ -1,4 +1,4 @@
-﻿namespace ElementLib;
+﻿namespace Visitor_ShoppingCart;
 
 public interface IVisitor
 {
